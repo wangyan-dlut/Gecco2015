@@ -1,0 +1,9 @@
+# Population Size
+10
+# Probability of Crossover
+0.50
+# Probability of Mutation
+0.50
+# Terminating Condition
+# Number of Evolved Individual
+50000

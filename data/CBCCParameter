@@ -1,0 +1,9 @@
+# dimension
+100
+# PopulationSize
+20
+# Iteration
+1000000
+# 每隔n代查看一次结果
+200
+
